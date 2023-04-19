@@ -3,7 +3,8 @@
 ![NQA](/No_Questions_Asked/files/00.jpg)
 
 ## About the job
-- **Game:** [A neo-noir point&click thriller about a delivery service for illicit goods (Steam)](https://store.steampowered.com/app/2259180/No_Questions_Asked/)
+- **Game:** [No Questions Asked - A neo-noir point&click thriller about a delivery service for illicit goods](https://store.steampowered.com/app/2259180/No_Questions_Asked/)
+- **Platform:** [Steam](https://store.steampowered.com/)
 - **Developer & publisher:** The Troubadour Collective
 - **Original discussions topic:** [Bug reports](https://steamcommunity.com/app/2259180/discussions/0/3767858179341905834/)
 
