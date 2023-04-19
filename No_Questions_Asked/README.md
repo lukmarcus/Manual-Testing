@@ -9,8 +9,8 @@
 
 ## Additional information
 - **System information:** [Exported from Steam](/No_Questions_Asked/System_information.md)
-- **Version:** 1.1.67
-- **Resolution:** 1024x768 (fullscreen)
+- **Game Version:** 1.1.67
+- **Game Resolution:** 1024x768 (fullscreen)
 
 ## Test cases
 #### [Issue #01: Cursor doesn't change color after clicking the pin board](01.md)
