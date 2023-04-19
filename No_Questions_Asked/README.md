@@ -13,7 +13,7 @@
 - **Game Resolution:** 1024x768 (fullscreen)
 
 ## Test cases
-#### [Issue #01: Cursor doesn't change color after clicking the pin board](01.md)
+#### [Issue #01: The Incorrect color of the mouse cursor color is seen on the starting location after clicking the pinboard](01.md)
 
 #### [Issue #02: Hero slides instead of walking when holding the mouse button and slowly dragging](02.md)
 
