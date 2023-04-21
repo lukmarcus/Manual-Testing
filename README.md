@@ -1,5 +1,5 @@
-# Test Case Studies
-Test Case Studies for my manual testing.
+# Manual Testing
+My manual testing projects.
 
 ## Websites
 ### [Best Friends](/Best_Friends/)
