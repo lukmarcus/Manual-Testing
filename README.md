@@ -2,7 +2,7 @@
 My manual testing projects.
 
 ## Websites
-### [Best Friends](/Best_Friends/)
+### :star: **[Best Friends](/Best_Friends/)** :star:
 - Part of Homeworks for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 
 ### [CastoPro](/CastoPro/)
