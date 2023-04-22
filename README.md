@@ -3,6 +3,7 @@ My manual testing projects.
 
 ## Websites
 ### :star: **[Best Friends](/Best_Friends/)** :star:
+- [Online Pet Store created for testing purposes](http://opencart.qatestlab.net/)
 - Part of Homeworks for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 
 ### [CastoPro](/CastoPro/)
