@@ -8,8 +8,11 @@ My manual testing projects.
 - Part of Homeworks for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 
 ### [CastoPro](/CastoPro/)
-- [CastoPro - the loyalty program for professionals | Castorama](https://castopro.castorama.pl/pl/home)
-### [Dezign for Life](/Dezign_for_Life/)
+- **Description:** [CastoPro - the loyalty program for professionals (Castorama)](https://castopro.castorama.pl/pl/home)
+
+### [Design for Life](/Design_for_Life/)
+- **Description:** Designing blog created for testing purposes
+- **Tools:** Mantis bug tracker
 - Part of Homework (Reporting bugs) for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 
 ## Games
