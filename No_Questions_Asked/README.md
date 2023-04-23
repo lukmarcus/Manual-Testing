@@ -3,17 +3,20 @@
 ![NQA](/No_Questions_Asked/files/00.jpg)
 
 ## About the job
+
 - **Game:** [No Questions Asked - A neo-noir point&click thriller about a delivery service for illicit goods](https://store.steampowered.com/app/2259180/No_Questions_Asked/)
 - **Platform:** [Steam](https://store.steampowered.com/)
 - **Developer & publisher:** The Troubadour Collective
 - **Original discussions topic:** [Bug reports](https://steamcommunity.com/app/2259180/discussions/0/3767858179341905834/)
 
 ## Additional information
+
 - **System information:** [Exported from Steam](/No_Questions_Asked/System_information.md)
 - **Game Version:** 1.1.67
 - **Game Resolution:** 1024x768 (fullscreen)
 
 ## Test cases
+
 #### [Issue #01: The Incorrect color of the mouse cursor color is seen on the starting location after clicking the pinboard](01.md)
 
 #### [Issue #02: Hero slides instead of walking when holding the mouse button and slowly dragging](02.md)
