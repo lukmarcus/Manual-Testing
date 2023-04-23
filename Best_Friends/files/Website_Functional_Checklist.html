@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+
+    <title>
+      Fundamentals of Software Testing: Website Functional Checklist (Homework
+      #3)
+    </title>
+  </head>
+  <body>
+    <table class="table table-sm table-bordered table-responsive">
+      <thead class="thead">
+        <tr>
+          <th colspan="6">
+            Fundamentals of Software Testing: Website Functional Checklist
+            (Homework #3)
+          </th>
+        </tr>
+      </thead>
+      <thead class="thead-dark">
+        <tr>
+          <th colspan="2">
+            Site:
+            <a target="_blank" href="http://opencart.qatestlab.net/"
+              >Best Friends</a
+            >
+          </th>
+          <th>Google Chrome 112.0.5615.50 (x64)</th>
+          <th>Mozilla Firefox 111.0.1 (x64)</th>
+          <th>Microsoft Edge 112.0.1722.34 (x64)</th>
+          <th>Notes/Link to the bug report</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="table-primary font-weight-bold">
+          <td colspan="6">1. Home page</td>
+        </tr>
+        <tr class="font-weight-bold">
+          <td>1.1</td>
+          <td colspan="5">Cart dropdown</td>
+        </tr>
+        <tr>
+          <td>a</td>
+          <td>Add product</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>b</td>
+          <td>Delete product</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>c</td>
+          <td>QTY</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td>XXX</td>
+        </tr>
+        <tr>
+          <td>d</td>
+          <td>Total</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td></td>
+        </tr>
+        <tr class="font-weight-bold">
+          <td>1.2</td>
+          <td colspan="5">Search</td>
+        </tr>
+        <tr>
+          <td>a</td>
+          <td>Test search filters (if present)</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>b</td>
+          <td>Test search results page</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td>
+            <a
+              target="_blank"
+              href="https://github.com/lukmarcus/Manual-Testing/blob/main/Best_Friends/files/0934385.md"
+              >#0934385</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>c</td>
+          <td>Test no search results page</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td>
+            <a
+              target="_blank"
+              href="https://github.com/lukmarcus/Manual-Testing/blob/main/Best_Friends/files/0934385.md"
+              >#0934385</a
+            >
+          </td>
+        </tr>
+        <tr class="font-weight-bold">
+          <td>1.3</td>
+          <td colspan="5">Newsletters subscription</td>
+        </tr>
+        <tr>
+          <td>a</td>
+          <td>
+            Subscribe with email the first time - check successful message
+          </td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td>
+            <a
+              target="_blank"
+              href="https://github.com/lukmarcus/Manual-Testing/blob/main/Best_Friends/files/0934419.md"
+              >#0934419</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>b</td>
+          <td>Subscribe with empty field - check validation message</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td>
+            <a
+              target="_blank"
+              href="https://github.com/lukmarcus/Manual-Testing/blob/main/Best_Friends/files/0934441.md"
+              >#0934441</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>c</td>
+          <td>
+            Subscribe with already subscribed email - check validation message
+          </td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td>
+            <a
+              target="_blank"
+              href="https://github.com/lukmarcus/Manual-Testing/blob/main/Best_Friends/files/0934441.md"
+              >#0934441</a
+            >
+          </td>
+        </tr>
+        <tr class="table-primary font-weight-bold">
+          <td colspan="6">2. Sign In</td>
+        </tr>
+        <tr class="font-weight-bold">
+          <td>2.1</td>
+          <td colspan="5">Returning Customer</td>
+        </tr>
+        <tr class="font-weight-bold">
+          <td>2.1.1</td>
+          <td colspan="5">Validation messages, for required fields</td>
+        </tr>
+        <tr>
+          <td>a</td>
+          <td>Empty fields</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td>
+            For product:
+            <a
+              target="_blank"
+              href="http://opencart.qatestlab.net/index.php?route=product/product&amp;path=30&amp;product_id=71"
+              >Exclusive Marine Corals Orijina</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>b</td>
+          <td>Incorrect email</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td>
+            For product:
+            <a
+              target="_blank"
+              href="http://opencart.qatestlab.net/index.php?route=product/product&amp;path=30&amp;product_id=71"
+              >Exclusive Marine Corals Orijina</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>c</td>
+          <td>Password less than 6 symbols</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td>
+            For product:
+            <a
+              target="_blank"
+              href="http://opencart.qatestlab.net/index.php?route=product/product&amp;path=30&amp;product_id=71"
+              >Exclusive Marine Corals Orijina</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>d</td>
+          <td>Add valid data</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td>
+            For product:
+            <a
+              target="_blank"
+              href="http://opencart.qatestlab.net/index.php?route=product/product&amp;path=30&amp;product_id=71"
+              >Exclusive Marine Corals Orijina</a
+            >
+          </td>
+        </tr>
+        <tr class="table-primary font-weight-bold">
+          <td colspan="6">3. Cart</td>
+        </tr>
+        <tr class="font-weight-bold">
+          <td>3.1</td>
+          <td colspan="5">Full cart</td>
+        </tr>
+        <tr>
+          <td>a</td>
+          <td>Add 1 product</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>b</td>
+          <td>Add 10+ products</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td>
+            An incorrect link (&#39;http://opencart.qatestlab.net/&#39;) is used
+            in the footer after clicking on the phone numbers
+          </td>
+        </tr>
+        <tr>
+          <td>c</td>
+          <td>Change number of items(from 10 to 0)</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>d</td>
+          <td>
+            Ability to return to the basket and order when the browser is
+            unexpectedly closed
+          </td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>e</td>
+          <td>Remove product(cross, checkbox, QTY=0)</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>f</td>
+          <td>Update shopping cart</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>g</td>
+          <td>Continue shopping</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>h</td>
+          <td>Proceed to Checkout</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td></td>
+        </tr>
+        <tr class="table-warning font-weight-bold">
+          <td colspan="6">4. New items (Registration)</td>
+        </tr>
+        <tr class="table-info font-weight-bold">
+          <td>4.1</td>
+          <td colspan="5">Getting to the registration page</td>
+        </tr>
+        <tr>
+          <td>a</td>
+          <td>Open from the top menu &#39;My Account&#39; dropdown</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td class="table-success">Passed</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>b</td>
+          <td>Continue as a new customer from the &#39;Sign in&#39; page</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td>
+            An incorrect map link is used in the footer after clicking on the
+            address text
+          </td>
+        </tr>
+        <tr class="table-info font-weight-bold">
+          <td>4.2</td>
+          <td colspan="5">Registration happy path</td>
+        </tr>
+        <tr>
+          <td>a</td>
+          <td>Valid data for all fields</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td>
+            An incorrect link (&#39;http://opencart.qatestlab.net/&#39;) is used
+            in the footer after clicking on the e-mail address
+          </td>
+        </tr>
+        <tr>
+          <td>b</td>
+          <td>Valid data for all fields marked as required</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td>
+            An incorrect map link is used in the footer after clicking on the
+            address text
+          </td>
+        </tr>
+        <tr class="table-info font-weight-bold">
+          <td>4.3</td>
+          <td colspan="5">Validation of the registration messages</td>
+        </tr>
+        <tr>
+          <td>a</td>
+          <td>Leave all fields empty</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td>
+            An incorrect link (&#39;http://opencart.qatestlab.net/&#39;) is used
+            in the footer after clicking on the e-mail address
+          </td>
+        </tr>
+        <tr>
+          <td>b</td>
+          <td>Incorrect email</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td>
+            An incorrect map link is used in the footer after clicking on the
+            address text
+          </td>
+        </tr>
+        <tr>
+          <td>c</td>
+          <td>Incorrect telephone</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td>
+            An incorrect map link is used in the footer after clicking on the
+            address text
+          </td>
+        </tr>
+        <tr>
+          <td>d</td>
+          <td>Password with less than 4 symbols</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td>
+            An incorrect map link is used in the footer after clicking on the
+            address text
+          </td>
+        </tr>
+        <tr>
+          <td>e</td>
+          <td>Two different passwords</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td class="table-danger">Failed</td>
+          <td>
+            An incorrect map link is used in the footer after clicking on the
+            address text
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

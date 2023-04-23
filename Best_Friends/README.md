@@ -51,9 +51,11 @@
   - Mark the results for all checked items with Passed/Failed
 - MantisBT: Add 5-8 functional bugs
 
-### Checklist
+### Website Functional Checklist
 
-[LINK]
+#### My Bootstrap Table ([HTML Preview](https://htmlpreview.github.io/?https://github.com/lukmarcus/Manual-Testing/blob/main/Best_Friends/files/Website_Functional_Checklist.html) or [HTML code](/Best_Friends/files/Website_Functional_Checklist.html))
+
+![Website Layout & Cross-Browser Functional Checklist](/Best_Friends/files/Website_Functional_Checklist.png)
 
 ### Issues
 
