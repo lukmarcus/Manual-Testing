@@ -17,7 +17,7 @@
   - Complete and pass in 3 different browsers
   - Add 5-6 new items
   - Mark the results for all checked items with Passed/Failed
-- Mantis bug tracker: Add 5-8 layout bugs
+- MantisBT: Add 5-8 layout bugs
 
 ### Website Layout Checklist
 
@@ -47,7 +47,7 @@ https://htmlpreview.github.io/?https://github.com/lukmarcus/Manual-Testing/blob/
   - Complete and pass in 3 different browsers
   - Add 5-6 new items
   - Mark the results for all checked items with Passed/Failed
-- Mantis bug tracker: Add 5-8 functional bugs
+- MantisBT: Add 5-8 functional bugs
 
 ### Checklist
 
@@ -72,7 +72,7 @@ https://htmlpreview.github.io/?https://github.com/lukmarcus/Manual-Testing/blob/
 ### About the task
 
 - Create a short test plan
-- Mantis bug tracker:
+- MantisBT:
   - Find and add 1-3 interesting bugs on any web resource
   - Add up to 5 bug-reports
 - Jira:
@@ -105,4 +105,4 @@ https://htmlpreview.github.io/?https://github.com/lukmarcus/Manual-Testing/blob/
   - Create at least 2 test sets and at least 4 test cases according to the functionality of the test site, one test suite should contain two test cases (one negative and one positive) for testing one site function
   - Create a test plan with arbitrary name and description
   - Create test run, add and pass all created test cases (assign statuses)
-- Mantis bug tracker: Add up to 6 functional bugs
+- MantisBT: Add up to 6 functional bugs

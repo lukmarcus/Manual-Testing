@@ -7,7 +7,7 @@ My manual testing projects.
 ### :star: **[Best Friends](/Best_Friends/)** :star:
 
 - **Description:** [Online Pet Store created for testing purposes](http://opencart.qatestlab.net/)
-- **Tools:** Mantis bug tracker, Jira, TestLink, TestRail
+- **Tools:** MantisBT, Jira, TestLink, TestRail
 - Part of Homeworks for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 
 ### [CastoPro](/CastoPro/)
@@ -17,7 +17,7 @@ My manual testing projects.
 ### [Design for Life](/Design_for_Life/)
 
 - **Description:** Designing blog created for testing purposes
-- **Tools:** Mantis bug tracker
+- **Tools:** MantisBT
 - Part of Homework (Reporting bugs) for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 
 ## Games
