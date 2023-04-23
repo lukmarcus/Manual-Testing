@@ -6,22 +6,23 @@ My manual testing projects.
 
 ### :star: **[Best Friends](/Best_Friends/)** :star:
 
-- **Description:** [Online Pet Store created for testing purposes](http://opencart.qatestlab.net/)
+- **Description:** Online Pet Store created for testing purposes [[link](http://opencart.qatestlab.net/)]
 - **Tools:** MantisBT, Jira, TestLink, TestRail
-- Part of Homeworks for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
+- **Additional information:** Part of the Homeworks for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 
 ### [CastoPro](/CastoPro/)
 
-- **Description:** [CastoPro - the loyalty program for professionals (Castorama)](https://castopro.castorama.pl/pl/home)
+- **Description:** CastoPro - the loyalty program for professionals (Castorama) [[link](https://castopro.castorama.pl/pl/home)]
 
 ### [Design for Life](/Design_for_Life/)
 
 - **Description:** Designing blog created for testing purposes
 - **Tools:** MantisBT
-- Part of Homework (Reporting bugs) for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
+- **Additional information:** Part of the Homework (Reporting bugs) for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 
 ## Games
 
 ### [No Questions Asked](/No_Questions_Asked/)
 
-- [A neo-noir point&click thriller about a delivery service for illicit goods](https://store.steampowered.com/app/2259180/No_Questions_Asked/) on [Steam](https://store.steampowered.com/)
+- **Description**: A neo-noir point&click thriller about a delivery service for illicit goods [[link](https://store.steampowered.com/app/2259180/No_Questions_Asked/)]
+- **Platform**: Steam
