@@ -79,6 +79,20 @@ https://htmlpreview.github.io/?https://github.com/lukmarcus/Manual-Testing/blob/
   - Create account, project and scrum board
   - Create a bug report
 
+### Issues
+
+#### [Issue #0935849: The 'ENQUIRY' form field is not activated on the 'Contact Us' page after clicking on it](/Best_Friends/files/0935849.md)
+
+#### [Issue #0935851: The 'Search' placeholder is displayed in the search field after typing a search query](/Best_Friends/files/0935851.md)
+
+#### [Issue #0935852: The incorrect mouse cursor is shown in the footer after hovering over the newsletter 'SUBSCRIBE' button](/Best_Friends/files/0935852.md)
+
+#### [Issue #0935988: Category thumbnails are covered by category names in the 'Specials Deals' section after zooming to 150%](/Best_Friends/files/0935988.md)
+
+#### [Issue #0936000: The top main menu is stretched on the page after zooming to 150%](/Best_Friends/files/0936000.md)
+
+#### [Issue #MAR-1: Incorrect "Default welcome msg!" information is shown on the top navigation after opening the main page](/Best_Friends/files/mar-1.md)
+
 ## Homework #5
 
 ### About the task
