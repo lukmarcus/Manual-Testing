@@ -19,9 +19,11 @@
   - Mark the results for all checked items with Passed/Failed
 - MantisBT: Add 5-8 layout bugs
 
-### Website Layout Checklist
+### Website Layout & Cross-Browser Compatibility Checklist
 
-https://htmlpreview.github.io/?https://github.com/lukmarcus/Manual-Testing/blob/main/Best_Friends/files/Website_Layout_Checklist.html
+#### My Bootstrap Table ([HTML Preview](https://htmlpreview.github.io/?https://github.com/lukmarcus/Manual-Testing/blob/main/Best_Friends/files/Website_Layout_Compatibility_Checklist.html) or [HTML code](<(/Best_Friends/files/Website_Layout_Compatibility_Checklist.html)>))
+
+![Website Layout & Cross-Browser Compatibility Checklist](/Best_Friends/files/Website_Layout_Compatibility_Checklist.png)
 
 ### Issues
 
