@@ -18,7 +18,7 @@ My manual testing projects.
 
 - **Description:** Designing blog created for testing purposes
 - **Tools:** MantisBT
-- **Additional information:** Part of the Homework (Reporting bugs) for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
+- **Additional information:** Part of the Homework (Reporting Bugs) for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 
 ## Games
 

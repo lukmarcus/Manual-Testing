@@ -4,12 +4,13 @@
 
 - **Page:** [Best Friends - Online Pet Store created for testing purposes](http://opencart.qatestlab.net/)
 - **Tasks:** Test website in various ways during the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/):
-  - Homework #2 (Bugs searching in layout)
-  - Homework #3 (Searching for functional bugs)
-  - Homework #4 (Creating a test plan)
-  - Homework #5
+  - Homework #2 (Web projects testing)
+  - Homework #3 (Approaches to the Functional Testing)
+  - Homework #4 (Software Testing Lifeсycle)
+  - Homework #5 (Test Design, Test Cases)
+  - Homework #6 (Mobile application testing)
 
-## Homework #2 (Bugs searching in layout)
+## Homework #2 (Web projects testing)
 
 ### About the task
 
@@ -41,7 +42,7 @@
 
 #### [Issue #0934525: Zoomed photo is covered by the 'ADD TO CART' button after adding the product to the cart and hovering over its photo](/Best_Friends/files/0934525.md)
 
-## Homework #3 (Searching for functional bugs)
+## Homework #3 (Approaches to the Functional Testing)
 
 ### About the task
 
@@ -71,7 +72,7 @@
 
 #### [Issue #0935505: A double quantity of product is added to the cart on the search page after clicking the 'ADD TO CART' button](/Best_Friends/files/0935505.md)
 
-## Homework #4 (Creating a test plan)
+## Homework #4 (Software Testing Lifeсycle)
 
 ### About the task
 
@@ -97,7 +98,7 @@
 
 #### [Issue #MAR-1: Incorrect "Default welcome msg!" information is shown on the top navigation after opening the main page](/Best_Friends/files/mar-1.md)
 
-## Homework #5
+## Homework #5 (Test Design, Test Cases)
 
 ### About the task
 
@@ -110,3 +111,11 @@
   - Create a test plan with arbitrary name and description
   - Create test run, add and pass all created test cases (assign statuses)
 - MantisBT: Add up to 6 functional bugs
+
+### Issues
+
+## Homework #6 (Mobile application testing)
+
+### About the task
+
+### Issues
