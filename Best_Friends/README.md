@@ -112,6 +112,50 @@
   - Create test run, add and pass all created test cases (assign statuses)
 - MantisBT: Add up to 6 functional bugs
 
+### TestLink / TestRail
+
+![TestLink](/Best_Friends/files/testlink.png)
+
+![TestRail](/Best_Friends/files/testrail.png)
+
+### Test Cases
+
+#### Account Password Recovery
+
+##### [#2660/C7: Checking the Account Password Recovery with invalid data](/Best_Friends/files/2660.md)
+
+##### [#2659/C6: Checking the Account Password Recovery with valid data](/Best_Friends/files/2659.md)
+
+#### Contact Us
+
+##### [#2666/C9: Checking the Contact Us with invalid data](/Best_Friends/files/2666.md)
+
+##### [#2663/C8: Checking the Contact Us with valid data](/Best_Friends/files/2663.md)
+
+#### New Account Registration
+
+##### [#2658/C2: Checking the Account Registration with invalid data](/Best_Friends/files/2658.md)
+
+##### [#2656/C1: Checking the Account Registration with valid data](/Best_Friends/files/2656.md)
+
+#### Newsletter
+
+##### [#2661/C10: Checking the Newsletter with a valid (not subscribed) e-mail](/Best_Friends/files/2661.md)
+
+##### [#2662/C9: Checking the Newsletter with a valid (subscribed) e-mail](/Best_Friends/files/2662.md)
+
+#### Sign In
+
+##### [#2672/C5: Checking the Returning Customer with invalid data](/Best_Friends/files/2672.md)
+
+##### [#2670/C4: Checking the Returning Customer with valid data](/Best_Friends/files/2670.md)
+
+### Test Run
+
+![TestRun1](/Best_Friends/files/testrun1.png)
+
+![TestRun2](/Best_Friends/files/testrun2.png)
+
 ### Issues
 
 ## Homework #6 (Mobile application testing)
