@@ -3,12 +3,28 @@
 ## About the job
 
 - **Page:** [Best Friends - Online Pet Store created for testing purposes](http://opencart.qatestlab.net/)
-- **Tasks:** Test website in various ways during the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/):
-  - Homework #2 (Web projects testing)
-  - Homework #3 (Approaches to the Functional Testing)
-  - Homework #4 (Software Testing Lifeсycle)
-  - Homework #5 (Test Design, Test Cases)
-  - Homework #6 (Mobile application testing)
+- **Tasks:** Test website in various ways during the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
+
+## Table of contents
+
+- [Homework #2 (Web projects testing)](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#homework-2-web-projects-testing)
+  - [About the task](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#about-the-task)
+  - [Website Layout & Cross-Browser Compatibility Checklist](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#website-layout--cross-browser-compatibility-checklist)
+  - [Issues](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#issues)
+- [Homework #3 (Approaches to the Functional Testing)](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#homework-3-approaches-to-the-functional-testing)
+  - [About the task](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#about-the-task-1)
+  - [Website Functional Checklist](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#website-functional-checklist)
+  - [Issues](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#issues-1)
+- [Homework #4 (Software Testing Lifeсycle)](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#homework-4-software-testing-life%D1%81ycle)
+  - [About the task](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#about-the-task-2)
+  - [Issues](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#issues-2)
+- [Homework #5 (Test Design, Test Cases)](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#issues-2)
+  - [About the task](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#about-the-task-3)
+  - [TestLink / TestRail](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#testlink--testrail)
+  - [Test Cases](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#test-cases)
+  - [Test Run](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#test-run)
+  - [Issues](https://github.com/lukmarcus/Manual-Testing/tree/main/Best_Friends#issues-3)
+- Homework #6 (Mobile application testing)
 
 ## Homework #2 (Web projects testing)
 
