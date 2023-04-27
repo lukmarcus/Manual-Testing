@@ -174,8 +174,55 @@
 
 ### Issues
 
+#### [Issue #0936631: The 'First Name' field is not validated on the 'Register Account' page after inputting invalid characters](/Best_Friends/files/0936631.md)
+
+#### [Issue #0936632: Invalid form button (radio) is used for the 'Privacy Policy' option on the 'Register Account' page](/Best_Friends/files/0936632.md)
+
+#### [Issue #0936633: Invalid field type (number) is used for the 'Last Name' field on the 'Register Account' page](/Best_Friends/files/0936633.md)
+
+#### [Issue #0936634: The 'Password' field is not marked as required on the 'Register Account' page](/Best_Friends/files/0936634.md)
+
+#### [Issue #0936635: The 'Privacy Policy' button is not marked as required on the 'Register Account' page](/Best_Friends/files/0936635.md)
+
+#### [Issue #0936636: The e-mail domain extension is not validated on the 'Account Password Recovery' after inputting an invalid e-mail address](/Best_Friends/files/0936636.md)
+
 ## Homework #6 (Mobile application testing)
 
 ### About the task
 
 ### Issues
+
+### About the task
+
+- TestLink:
+  - Create positive and negative test cases on the functionality on Account Password Recovery & New Account Registration
+  - There is a limit of 10 test cases to be designed, the rest of the cases can be designed on any other functionality on the site
+- TestRail:
+  - Create an account and project
+  - Create at least 2 test sets and at least 4 test cases according to the functionality of the test site, one test suite should contain two test cases (one negative and one positive) for testing one site function
+  - Create a test plan with arbitrary name and description
+  - Create test run, add and pass all created test cases (assign statuses)
+- MantisBT: Add up to 6 functional bugs
+
+- Mobile Application Checklist:
+  - Specify the name/model of the device and the OS version
+  - Add 5-6 new items
+  - Mark the results for all checked items with Passed/Failed
+- MantisBT: Add 5-8 mobile app bugs
+
+Complete and pass the checklist:
+mobile application testing – «Mobile device (application)» tab
+or
+Website testing – «Mobile device (site)» tab
+
+Specify the name of the application or website under test.
+
+- Specify the browser name and version of the tested website
+
+Mobile applications for testing:
+Android
+Converter "All Unit Converter & Tools"
+
+During completing the checklist:
+Add to the bug-tracker at least 5-8 bugs, found in the process of testing the mobile application or website
+Assign the "Homework_6/Devices" category to the bug reports
