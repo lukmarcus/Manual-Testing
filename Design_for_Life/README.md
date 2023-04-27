@@ -2,10 +2,10 @@
 
 ## About the job
 
-- **Source:** Video file from Designing blog created for testing purposes
+- **Source:** Design for Life - Designing blog created for testing purposes (Video file)
 - **Task:** Describe 1-3 bugs in the MantisBT
-- **Additional information:** Part of the Homework (Reporting Bugs) for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 - **Environment:** Google Chrome 87.0.4280.88 in Windows 10 x64 (specified in task description)
+- **Additional information:** Part of the Homework (Reporting Bugs) for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 
 ## Issues
 
