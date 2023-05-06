@@ -4,7 +4,9 @@
 
 ## About the job
 
-- **App**: [All Unit Converter & Tools - The most comprehensive measurement converter tool you will ever get](https://play.google.com/store/apps/details?id=com.digitalindeed.converter)
+- **App:** All Unit Converter & Tools
+- **Description:**: The most comprehensive measurement converter tool you will ever get
+- **OS:** Android ([Google Play](https://play.google.com/store/apps/details?id=com.digitalindeed.converter))
 - **Tasks:**
   - Mobile Application Checklist:
     - Specify the name/model of the device and the OS version
