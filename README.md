@@ -33,17 +33,17 @@ My manual testing projects.
 
 ### [No Questions Asked](/No_Questions_Asked/)
 
-- **Description:** A neo-noir point&click thriller about a delivery service for illicit goods.
+- **Description:** A neo-noir point&click thriller about a delivery service for illicit goods
 - **OS:** Windows ([Steam](https://store.steampowered.com/app/2259180/))
 
 ### [The Palace on the Hill](/Palace_on_Hill/)
 
-- **Description:** A slice of life adventure set in 90s India. A story of a teenaged boy Vir, full of ambition and struggle with a sprinkle of romance.
+- **Description:** A slice of life adventure set in 90s India - a story of a teenaged boy Vir, full of ambition and struggle with a sprinkle of romance
 - **OS:** Android ([Google Play](https://play.google.com/store/apps/details?id=com.NikuGames.Palace_on_the_hill_demo)) / Windows ([Steam](https://store.steampowered.com/app/1582600/))
 - **Game Page:** https://nikugames.com/ThePalaceOnTheHill/
 
 ### [Pixel Wheels](/Pixel_Wheels/)
 
-- **Description:** Race for the first place on various tracks. Pick up bonuses to boost your position or slow down competitors!
+- **Description:** Race for the first place on various tracks - pick up bonuses to boost your position or slow down competitors!
 - **OS:** Android ([Google Play](https://play.google.com/store/apps/details?id=com.agateau.tinywheels.android)) / Linux / Windows
 - **Game Page**: https://agateau.com/projects/pixelwheels/
