@@ -15,14 +15,14 @@
 
 ### v0.24.2
 
-#### [Issue #336: The shortcut off the main road is found on the 'Flood' track after starting the race](336.md)
+#### [Issue #336: The shortcut off the main road is found on the 'Flood' track after starting the race](/Pixel_Wheels/files/336.md)
 
-#### [Issue #337: The shortcut off the main road is found on the 'Up, up, up... and down!' track after turning the 3rd corner](337.md)
+#### [Issue #337: The shortcut off the main road is found on the 'Up, up, up... and down!' track after turning the 3rd corner](/Pixel_Wheels/files/337.md)
 
-#### [Issue #338: The free camera is stuck at the game level after activating it in developer tools](338.md)
+#### [Issue #338: The free camera is stuck at the game level after activating it in developer tools](/Pixel_Wheels/files/338.md)
 
-#### [Issue #339: The game is frozen on the main menu after changing the language to a foreign and returning to English](339.md)
+#### [Issue #339: The game is frozen on the main menu after changing the language to a foreign and returning to English](/Pixel_Wheels/files/339.md)
 
-#### [Issue #340: The player vehicle is gone beyond the screen on the multi-player 'Flood' track after creating a big gap between players](340.md)
+#### [Issue #340: The player vehicle is gone beyond the screen on the multi-player 'Flood' track after creating a big gap between players](/Pixel_Wheels/files/340.md)
 
-#### [Issue #341: Championship points are shown instead of race points on the race results screen after 2nd and 3rd race in the championships](341.md)
+#### [Issue #341: Championship points are shown instead of race points on the race results screen after 2nd and 3rd race in the championships](/Pixel_Wheels/files/341.md)
