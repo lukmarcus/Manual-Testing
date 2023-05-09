@@ -26,3 +26,5 @@
 #### [Issue #340: The player vehicle is gone beyond the screen on the multi-player 'Flood' track after creating a big gap between players](/Pixel_Wheels/files/340.md)
 
 #### [Issue #341: Championship points are shown instead of race points on the race results screen after 2nd and 3rd race in the championships](/Pixel_Wheels/files/341.md)
+
+#### [Issue #343: No error message is shown on the race screen after setting 'Keyboard' as 'Controls' without having the keyboard](/Pixel_Wheels/files/343.md)
