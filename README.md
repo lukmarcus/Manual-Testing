@@ -38,7 +38,7 @@ My manual testing projects.
 
 ### [The Palace on the Hill](/Palace_on_Hill/)
 
-- **Description:** A slice of life adventure set in 90s India - a story of a teenaged boy Vir, full of ambition and struggle with a sprinkle of romance
+- **Description:** A slice-of-life adventure game set in 90s rural India - explore ancient palace ruins, set up your garden, cook Indian food, run errands for quirky characters, and learn about your history by making art
 - **OS:** Android ([Google Play](https://play.google.com/store/apps/details?id=com.NikuGames.Palace_on_the_hill_demo)) / Windows ([Steam](https://store.steampowered.com/app/1582600/))
 - **Game Page:** https://nikugames.com/ThePalaceOnTheHill/
 
