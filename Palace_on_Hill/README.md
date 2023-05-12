@@ -33,3 +33,9 @@
 ### v0.64 (Android)
 
 #### [Issue #23050501: The deleted game is continued on the 'New Game' window after tapping on the 'New' option after deleting the save](/Palace_on_Hill/files/23050501.md)
+
+#### [Issue #23050502: The previously deleted game is continued on the 'New Game' window after tapping on the 'New' option](/Palace_on_Hill/files/23050502.md)
+
+#### [Issue #23050503: The 'Continue' option is hidden in the main menu after deleting save game and closing the game](/Palace_on_Hill/files/23050503.md)
+
+#### [Issue #23050504: Invalid behavior of the 'Credits' option is seen in the main menu after tapping on it](/Palace_on_Hill/files/23050504.md)
