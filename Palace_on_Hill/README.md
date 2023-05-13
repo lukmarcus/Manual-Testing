@@ -39,3 +39,11 @@
 #### [Issue #23050503: The 'Continue' option is hidden in the main menu after deleting save game and closing the game](/Palace_on_Hill/files/23050503.md)
 
 #### [Issue #23050504: Invalid behavior of the 'Credits' option is seen in the main menu after tapping on it](/Palace_on_Hill/files/23050504.md)
+
+#### [Issue #23050505: The 'New Game' windows are layered in the main menu after tapping on the 'New Game' option](/Palace_on_Hill/files/23050505.md)
+
+#### [Issue #23050506: The game progress is blocked in the 'Learn to Farm' quest after canceling the tomato planting](/Palace_on_Hill/files/23050506.md)
+
+### v0.65 (Android)
+
+#### [Issue #23050601: Crossed task objectives are not synchronized with main screen objectives on the 'Tasks' screen](/Palace_on_Hill/files/23050601.md)
