@@ -47,3 +47,13 @@
 ### v0.65 (Android)
 
 #### [Issue #23050601: Crossed task objectives are not synchronized with main screen objectives on the 'Tasks' screen](/Palace_on_Hill/files/23050601.md)
+
+#### [Issue #23050602: 'Clay' material is gone from the inventory after interrupting the 'Basic Cookpot' item preparation](/Palace_on_Hill/files/23050602.md)
+
+#### [Issue #23050603: An inaccurate 'Make a black tea for Devi' objective is shown in the 'Teashop Job' task after making the black tea in 'Devi Chai & Snacks Menu'](/Palace_on_Hill/files/23050603.md)
+
+#### [Issue #23050604: Different inventory is shown for a split second on the 'Pottery Workshop' window after tapping on the 'Prepare' button](/Palace_on_Hill/files/23050604.md)
+
+#### [Issue #23050605: The game progress is partially reset after continuing the game from the main menu](/Palace_on_Hill/files/23050605.md)
+
+#### [Issue #23050606: The game is frozen after planting forage seeds on the field](/Palace_on_Hill/files/23050606.md)
