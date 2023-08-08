@@ -3,7 +3,8 @@
 ## About the job
 
 - **Page:** [Best Friends - Online Pet Store created for testing purposes](http://opencart.qatestlab.net/)
-- **Tasks:** Test website in various ways during the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
+- **Tasks:** Test website in various ways during the [QATestLab Training Center](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
+
 
 ## Table of contents
 

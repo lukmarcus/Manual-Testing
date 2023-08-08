@@ -13,7 +13,7 @@
     - Add 5-6 new items
     - Mark the results for all checked items with Passed/Failed
   - MantisBT: Add 5-8 mobile app bugs
-- **Additional information:** Part of the Homework (Mobile App Testing) for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
+- **Additional information:** Part of the Homework (Mobile App Testing) for the [QATestLab Training Center](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 
 ## Mobile Application Checklist
 
