@@ -28,3 +28,15 @@
 #### [Issue #341: Championship points are shown instead of race points on the race results screen after 2nd and 3rd race in the championships](/Pixel_Wheels/files/341.md)
 
 #### [Issue #343: No error message is shown on the race screen after setting 'Keyboard' as 'Controls' without having the keyboard](/Pixel_Wheels/files/343.md)
+
+#### [Issue #344: Invalid language messages for blocked vehicles are shown on the vehicle select screen after changing language in the 'Settings' screen](/Pixel_Wheels/files/344.md)
+
+#### [Issue #345: The shortcut off the main road is found on the 'Up, up, up... and down!' track after turning the 2nd corner](/Pixel_Wheels/files/345.md)
+
+#### [Issue #346: The shortcut off the main road is found on the 'Up, up, up... and down!' track after turning the 1st corner](/Pixel_Wheels/files/346.md)
+
+#### [Issue #347: No game icon is shown on the Windows taskbar after opening the game](/Pixel_Wheels/files/347.md)
+
+#### [Issue #348: Black rectangles are shown in the race menu after changing the language in the race](/Pixel_Wheels/files/348.md)
+
+#### [Issue #349: The 'Controller is missing' message is missed after changing the player controls in the race](/Pixel_Wheels/files/349.md)
