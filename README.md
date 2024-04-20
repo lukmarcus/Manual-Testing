@@ -7,18 +7,19 @@ My manual testing projects.
 ### :star: **[Best Friends](/Best_Friends/)** :star:
 
 - **Description:** Online Pet Store created for testing purposes [[link](http://opencart.qatestlab.net/)]
-- **Tools:** MantisBT, Jira, TestLink, TestRail
-- **Additional information:** Part of the Homeworks for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
+- **Tools:** Mantis Bug Tracker, Jira, TestLink, TestRail
+- **Additional information:** Part of the Homeworks for the [QATestLab Training Center](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 
 ### [CastoPro](/CastoPro/)
 
-- **Description:** CastoPro - the loyalty program for professionals (Castorama) [[link](https://castopro.castorama.pl/pl/home)]
+- **Description:** Loyalty program for professionals offered by Castorama, a leading home improvement retailer in Poland [[link](https://castopro.castorama.pl/pl/home)]
+- **Tools:** Chrome DevTools
 
 ### [Design for Life](/Design_for_Life/)
 
-- **Description:** Designing blog created for testing purposes
-- **Tools:** MantisBT
-- **Additional information:** Part of the Homework (Reporting Bugs) for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
+- **Description:** A design blog created for testing purposes
+- **Tools:** Mantis Bug Tracker
+- **Additional information:** Part of the Homework (Reporting Bugs) for the [QATestLab Training Center](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 
 ## Mobile Apps
 
@@ -26,8 +27,8 @@ My manual testing projects.
 
 - **Description:** The most comprehensive measurement converter tool you will ever get
 - **OS:** Android ([Google Play](https://play.google.com/store/apps/details?id=com.digitalindeed.converter))
-- **Tools:** MantisBT, Android Debug Bridge
-- **Additional information:** Part of the Homework (Mobile App Testing) for the [QATestLab](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
+- **Tools:** Mantis Bug Tracker, Android Debug Bridge
+- **Additional information:** Part of the Homework (Mobile App Testing) for the [QATestLab Training Center](https://en.training.qatestlab.com/) course [Fundamentals of Software Testing](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 
 ## Games
 
