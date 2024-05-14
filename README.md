@@ -1,6 +1,6 @@
 # Manual Testing
 
-My manual testing projects.
+My manual test case studies.
 
 ## Websites
 
