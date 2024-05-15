@@ -6,7 +6,7 @@
 
 - **Game:** [No Questions Asked - A neo-noir point&click thriller about a delivery service for illicit goods](https://store.steampowered.com/app/2259180/No_Questions_Asked/)
 - **Platform:** [Steam](https://store.steampowered.com/)
-- **Developer & publisher:** The Troubadour Collective
+- **Developer & publisher:** [The Troubadour Collective](https://linktr.ee/the.troubadour.collective)
 - **Original discussions topic:** [Bug reports](https://steamcommunity.com/app/2259180/discussions/0/3767858179341905834/)
 
 ## Additional information
@@ -17,7 +17,7 @@
 
 ## Test cases
 
-#### [Issue #01: The Incorrect color of the mouse cursor color is seen on the starting location after clicking the pinboard](01.md)
+#### [Issue #01: The incorrect color of the mouse cursor color is seen on the starting location after clicking the pinboard](files/01.md)
 
 #### [Issue #02: Hero slides instead of walking when holding the mouse button and slowly dragging](02.md)
 
@@ -35,8 +35,8 @@
 
 #### [Issue #09: Can't choose dialog options with "space"](09.md)
 
-#### [Issue #10: Achievement 'Same as always' unlocked on day 2](10.md)
+#### [Issue #10: The 'Same as always' achievement is unlocked on Day 2](files/10.md)
 
-#### [Issue #11: No visual drug effect on Day 2 after quick clicking dialog options](11.md)
+#### [Issue #11: The visual drug effect is not seen on screen on Day 2 after quickly clicking dialogue options](files/11.md)
 
-#### [Issue #12: Problem with the 'Skip' button in Credits](12.md)
+#### [Issue #12: The 'Skip' button can't be fully clicked on the 'Credits' screen](files/12.md)
