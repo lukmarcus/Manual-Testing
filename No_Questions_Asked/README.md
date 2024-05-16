@@ -29,11 +29,11 @@
 
 #### [Issue #06: In-game menu window opens under the game map](06.md)
 
-#### [Issue #07: Can't move hero (with keys) when the mouse cursor is on game information text](07.md)
+#### [Issue #07: The hero can't be moved (with keys) when the mouse cursor is on the game information text](files/07.md)
 
-#### [Issue #08: In-game text message about the game map during the intro](08.md)
+#### [Issue #08: In-game text message about the game map is seen during the intro after pressing the "TAB" key.](files/08.md)
 
-#### [Issue #09: Can't choose dialog options with "space"](09.md)
+#### [Issue #09: The dialogue options can't be chosen with the "space" key](files/09.md)
 
 #### [Issue #10: The 'Same as always' achievement is unlocked on Day 2](files/10.md)
 
