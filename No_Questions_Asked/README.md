@@ -27,11 +27,11 @@
 
 #### [Issue #05: Game information messages are over the in-game menu window](05.md)
 
-#### [Issue #06: In-game menu window opens under the game map](06.md)
+#### [Issue #06: The in-game menu window is opened below the game map after pressing the "ESC" key with the opened map](files/06.md)
 
 #### [Issue #07: The hero can't be moved (with keys) when the mouse cursor is on the game information text](files/07.md)
 
-#### [Issue #08: In-game text message about the game map is seen during the intro after pressing the "TAB" key.](files/08.md)
+#### [Issue #08: In-game text message about the game map is seen during the intro after pressing the "TAB" key](files/08.md)
 
 #### [Issue #09: The dialogue options can't be chosen with the "space" key](files/09.md)
 
