@@ -19,11 +19,11 @@
 
 #### [Issue #01: The incorrect color of the mouse cursor color is seen on the starting location after clicking the pinboard](files/01.md)
 
-#### [Issue #02: Hero slides instead of walking when holding the mouse button and slowly dragging](02.md)
+#### [Issue #02: No animation of the hero's movement is seen after holding the mouse button on him and slowly dragging away](files/02.md)
 
-#### [Issue #03: Cursor doesn't change color after moving out of the interactive object (with keys)](03.md)
+#### [Issue #03: The wrong color (golden) of the mouse cursor is seen when moving out of the interactive objects with keyboard keys](files/03.md)
 
-#### [Issue #04: Cursor can't be moved with the touchpad when moving the hero with keys](04.md)
+#### [Issue #04: The mouse cursor can't be moved with the touchpad when the hero is moving with the keyboard keys](files/04.md)
 
 #### [Issue #05: The game information messages are seen above the in-game menu window after pressing the "ESC" key when the game information messages are present](files/05.md)
 
