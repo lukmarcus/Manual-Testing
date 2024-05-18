@@ -25,7 +25,7 @@
 
 #### [Issue #04: Cursor can't be moved with the touchpad when moving the hero with keys](04.md)
 
-#### [Issue #05: Game information messages are over the in-game menu window](05.md)
+#### [Issue #05: The game information messages are seen above the in-game menu window after pressing the "ESC" key when the game information messages are present](files/05.md)
 
 #### [Issue #06: The in-game menu window is opened below the game map after pressing the "ESC" key with the opened map](files/06.md)
 
