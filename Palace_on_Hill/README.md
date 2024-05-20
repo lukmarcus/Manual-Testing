@@ -57,3 +57,9 @@
 #### [Issue #23050605: The game progress is partially reset after continuing the game from the main menu](/Palace_on_Hill/files/23050605.md)
 
 #### [Issue #23050606: The game is frozen after planting forage seeds on the field](/Palace_on_Hill/files/23050606.md)
+
+### v0.65 (Steam)
+
+#### [Issue #23050801: The 'Muthu' person is not found on the map near the lakeside after the 2nd day](/files/23050801.md)
+
+#### [Issue #23050802: The 'Father' person is not found near the house after going around the house](/files/23050802.md)
