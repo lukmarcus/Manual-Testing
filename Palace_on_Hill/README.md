@@ -63,3 +63,7 @@
 #### [Issue #23050801: The 'Muthu' person is not found on the map near the lakeside after the 2nd day](/files/23050801.md)
 
 #### [Issue #23050802: The 'Father' person is not found near the house after going around the house](/files/23050802.md)
+
+#### [Issue #23050803: The 'Learn to Farm' quest from the 'Father' person is missed after pressing 'ESC' during the dialog](/files/23050803.md)
+
+#### [Issue #23050804: The house room location is loaded after going down from back of the outside of the house](/files/23050804.md)
