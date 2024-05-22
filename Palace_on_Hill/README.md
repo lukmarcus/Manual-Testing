@@ -67,3 +67,9 @@
 #### [Issue #23050803: The 'Learn to Farm' quest from the 'Father' person is missed after pressing 'ESC' during the dialog](/files/23050803.md)
 
 #### [Issue #23050804: The house room location is loaded after going down from back of the outside of the house](/files/23050804.md)
+
+#### [Issue #23050805: The 'Learn to Farm' quest from the 'Father' person is missed after going around the house](/files/23050805.md)
+
+### v0.66 (Android)
+
+#### [Issue #23050901: Game settings are shown under the image screen after unlocking the phone locked on the image screen.](/files/23050901.md)
