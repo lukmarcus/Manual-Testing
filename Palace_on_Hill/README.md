@@ -72,4 +72,8 @@
 
 ### v0.66 (Android)
 
-#### [Issue #23050901: Game settings are shown under the image screen after unlocking the phone locked on the image screen.](/files/23050901.md)
+#### [Issue #23050901: Game settings are shown under the image screen after unlocking the phone locked on the image screen](/files/23050901.md)
+
+#### [Issue #23050902: The 'Close' button is missed on the 'New Game' window after tapping on the 'New Game' option in the main menu](/files/23050902.md)
+
+#### [Issue #23050903: The music is played in the main menu after volumizing it down in the 'Settings' window](/files/23050903.md)
