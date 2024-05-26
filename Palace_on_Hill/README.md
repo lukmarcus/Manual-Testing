@@ -81,3 +81,5 @@
 #### [Issue #23050904: An inaccurate 'Bring the sharpened knife to Mynah' objective is shown in the 'Mynah's Knife' task after talking to the 'Muthu' person about the knife](/files/23050904.md)
 
 #### [Issue #23050905: The fallen tree is missed on the blocked road after quiting to the main menu and loading the game](/files/23050905.md)
+
+#### [Issue #23050906: Talk with the 'Father' person is started without him in the night after going to the front of the house](/files/23050906.md)
