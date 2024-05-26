@@ -79,3 +79,5 @@
 #### [Issue #23050903: The music is played in the main menu after volumizing it down in the 'Settings' window](/files/23050903.md)
 
 #### [Issue #23050904: An inaccurate 'Bring the sharpened knife to Mynah' objective is shown in the 'Mynah's Knife' task after talking to the 'Muthu' person about the knife](/files/23050904.md)
+
+#### [Issue #23050905: The fallen tree is missed on the blocked road after quiting to the main menu and loading the game](/files/23050905.md)
